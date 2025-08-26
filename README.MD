@@ -4,7 +4,8 @@
 
 ## SOBRE
 Esta página foi feita utilizando as seguintes tecnologias: HTML5, CSS3 e JavaScript.
-O JavaScript tem a função de puxar as informações de um produto, que estão em um arquivo JSON.
+
+O JavaScript tem a função de puxar as informações de um produto, que estão em um arquivo JSON, e com o uso do DOM criar os card do respectivo produto.
 
 ## TECNOLOGIAS USADAS
 * HTML5
