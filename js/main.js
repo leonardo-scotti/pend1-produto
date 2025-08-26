@@ -35,10 +35,8 @@ function showDatas(product) {
     card.append(divImg, desc, priceAval)
     cards.appendChild(card)
 
-
-    const nameText = product.nome
     card.addEventListener('click', () => {
-        alert(`Você clicou no produto: ${nameText}`)
+        alert(`Você clicou no produto: ${product.nome}`)
     })
 }
 
